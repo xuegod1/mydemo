@@ -6,3 +6,4 @@ hello world hot-fix_test
 hello world master_test
 github change
 myclone --- change code
+after ssh download,then upload 
